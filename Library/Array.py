@@ -1,7 +1,8 @@
-import random
+# -*- coding:utf-8 -*- 
+import random   
 
 # 定义数组,初始化数组
-class Array:
+class Array:  
 	def index(self):
 		arr: list[int] = [0] * 5
 		nums:list[int] = [1,3,2,5,4]
